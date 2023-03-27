@@ -1,0 +1,13 @@
+<?php
+
+declare (strict_types=1);
+namespace ApiClients\Client\GitHubAE\Schema\WebhookIssuesUnassigned\Issue;
+
+use ApiClients\Client\GitHubAE\Error as ErrorSchemas;
+use ApiClients\Client\GitHubAE\Hydrator;
+use ApiClients\Client\GitHubAE\Operation;
+use ApiClients\Client\GitHubAE\Schema;
+use ApiClients\Client\GitHubAE\WebHook;
+final readonly class PerformedViaGithubApp extends Schema\AliasAbstract\Abstract1720054d9210bbc63fb12666b2827ade
+{
+}

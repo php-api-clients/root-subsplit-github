@@ -1,0 +1,45 @@
+{
+  "name": "api-clients/github-ae",
+  "description": "Non-Blocking first GitHub AE client",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cees-Jan Kiewiet",
+      "email": "ceesjank@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.2",
+    "api-clients/github-ae-common": "^0.3",
+    "api-clients/contracts": "^0.1",
+    "cebe/php-openapi": "dev-openapi-31 as 1.6.0",
+    "eventsauce/object-hydrator": "^1.1",
+    "league/openapi-psr7-validator": "^0.18",
+    "react/async": "^4.0",
+    "wyrihaximus/react-awaitable-observable": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ApiClients\\Client\\GitHubAE\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true,
+    "platform": {
+      "php": "8.2.13"
+    },
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true,
+      "composer/package-versions-deprecated": true,
+      "ergebnis/composer-normalize": true,
+      "icanhazstring/composer-unused": true,
+      "wyrihaximus/composer-update-bin-autoload-path": true,
+      "infection/extension-installer": true
+    }
+  },
+"sugest": {
+"api-clients/github-ae-meta": "*","api-clients/github-ae-enterprise-admin": "*","api-clients/github-ae-apps": "*","api-clients/github-ae-codes-of-conduct": "*","api-clients/github-ae-emojis": "*","api-clients/github-ae-secret-scanning": "*","api-clients/github-ae-activity": "*","api-clients/github-ae-gists": "*","api-clients/github-ae-gitignore": "*","api-clients/github-ae-issues": "*","api-clients/github-ae-licenses": "*","api-clients/github-ae-markdown": "*","api-clients/github-ae-orgs": "*","api-clients/github-ae-actions": "*","api-clients/github-ae-code-scanning": "*","api-clients/github-ae-teams": "*","api-clients/github-ae-migrations": "*","api-clients/github-ae-projects": "*","api-clients/github-ae-repos": "*","api-clients/github-ae-reactions": "*","api-clients/github-ae-rate-limit": "*","api-clients/github-ae-checks": "*","api-clients/github-ae-git": "*","api-clients/github-ae-pulls": "*","api-clients/github-ae-search": "*","api-clients/github-ae-users": "*","api-clients/github-ae-webhook": "*"},
+  "require-dev": {
+    "wyrihaximus/async-test-utilities": "^5.0"
+  }
+}

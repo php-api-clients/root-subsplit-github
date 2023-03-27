@@ -1,0 +1,178 @@
+{
+    "sub-splits": [
+        {
+            "name": "github-ae",
+            "directory": "github-ae",
+            "target": "git@github.com:php-api-clients\/github-ae.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-common",
+            "directory": "github-ae-common",
+            "target": "git@github.com:php-api-clients\/github-ae-common.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-meta",
+            "directory": "github-ae-meta",
+            "target": "git@github.com:php-api-clients\/github-ae-meta.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-enterprise-admin",
+            "directory": "github-ae-enterprise-admin",
+            "target": "git@github.com:php-api-clients\/github-ae-enterprise-admin.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-apps",
+            "directory": "github-ae-apps",
+            "target": "git@github.com:php-api-clients\/github-ae-apps.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-codes-of-conduct",
+            "directory": "github-ae-codes-of-conduct",
+            "target": "git@github.com:php-api-clients\/github-ae-codes-of-conduct.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-emojis",
+            "directory": "github-ae-emojis",
+            "target": "git@github.com:php-api-clients\/github-ae-emojis.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-secret-scanning",
+            "directory": "github-ae-secret-scanning",
+            "target": "git@github.com:php-api-clients\/github-ae-secret-scanning.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-activity",
+            "directory": "github-ae-activity",
+            "target": "git@github.com:php-api-clients\/github-ae-activity.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-gists",
+            "directory": "github-ae-gists",
+            "target": "git@github.com:php-api-clients\/github-ae-gists.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-gitignore",
+            "directory": "github-ae-gitignore",
+            "target": "git@github.com:php-api-clients\/github-ae-gitignore.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-issues",
+            "directory": "github-ae-issues",
+            "target": "git@github.com:php-api-clients\/github-ae-issues.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-licenses",
+            "directory": "github-ae-licenses",
+            "target": "git@github.com:php-api-clients\/github-ae-licenses.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-markdown",
+            "directory": "github-ae-markdown",
+            "target": "git@github.com:php-api-clients\/github-ae-markdown.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-orgs",
+            "directory": "github-ae-orgs",
+            "target": "git@github.com:php-api-clients\/github-ae-orgs.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-actions",
+            "directory": "github-ae-actions",
+            "target": "git@github.com:php-api-clients\/github-ae-actions.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-code-scanning",
+            "directory": "github-ae-code-scanning",
+            "target": "git@github.com:php-api-clients\/github-ae-code-scanning.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-teams",
+            "directory": "github-ae-teams",
+            "target": "git@github.com:php-api-clients\/github-ae-teams.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-migrations",
+            "directory": "github-ae-migrations",
+            "target": "git@github.com:php-api-clients\/github-ae-migrations.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-projects",
+            "directory": "github-ae-projects",
+            "target": "git@github.com:php-api-clients\/github-ae-projects.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-repos",
+            "directory": "github-ae-repos",
+            "target": "git@github.com:php-api-clients\/github-ae-repos.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-reactions",
+            "directory": "github-ae-reactions",
+            "target": "git@github.com:php-api-clients\/github-ae-reactions.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-rate-limit",
+            "directory": "github-ae-rate-limit",
+            "target": "git@github.com:php-api-clients\/github-ae-rate-limit.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-checks",
+            "directory": "github-ae-checks",
+            "target": "git@github.com:php-api-clients\/github-ae-checks.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-git",
+            "directory": "github-ae-git",
+            "target": "git@github.com:php-api-clients\/github-ae-git.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-pulls",
+            "directory": "github-ae-pulls",
+            "target": "git@github.com:php-api-clients\/github-ae-pulls.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-search",
+            "directory": "github-ae-search",
+            "target": "git@github.com:php-api-clients\/github-ae-search.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-users",
+            "directory": "github-ae-users",
+            "target": "git@github.com:php-api-clients\/github-ae-users.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-webhook",
+            "directory": "github-ae-webhook",
+            "target": "git@github.com:php-api-clients\/github-ae-webhook.git",
+            "target-branch": "v0.2.x"
+        }
+    ]
+}

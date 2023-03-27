@@ -1,0 +1,220 @@
+{
+    "sub-splits": [
+        {
+            "name": "github",
+            "directory": "github",
+            "target": "git@github.com:php-api-clients\/github.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-common",
+            "directory": "github-common",
+            "target": "git@github.com:php-api-clients\/github-common.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-meta",
+            "directory": "github-meta",
+            "target": "git@github.com:php-api-clients\/github-meta.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-apps",
+            "directory": "github-apps",
+            "target": "git@github.com:php-api-clients\/github-apps.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-codes-of-conduct",
+            "directory": "github-codes-of-conduct",
+            "target": "git@github.com:php-api-clients\/github-codes-of-conduct.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-emojis",
+            "directory": "github-emojis",
+            "target": "git@github.com:php-api-clients\/github-emojis.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-dependabot",
+            "directory": "github-dependabot",
+            "target": "git@github.com:php-api-clients\/github-dependabot.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-secret-scanning",
+            "directory": "github-secret-scanning",
+            "target": "git@github.com:php-api-clients\/github-secret-scanning.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-activity",
+            "directory": "github-activity",
+            "target": "git@github.com:php-api-clients\/github-activity.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-gists",
+            "directory": "github-gists",
+            "target": "git@github.com:php-api-clients\/github-gists.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-gitignore",
+            "directory": "github-gitignore",
+            "target": "git@github.com:php-api-clients\/github-gitignore.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-issues",
+            "directory": "github-issues",
+            "target": "git@github.com:php-api-clients\/github-issues.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-licenses",
+            "directory": "github-licenses",
+            "target": "git@github.com:php-api-clients\/github-licenses.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-markdown",
+            "directory": "github-markdown",
+            "target": "git@github.com:php-api-clients\/github-markdown.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-orgs",
+            "directory": "github-orgs",
+            "target": "git@github.com:php-api-clients\/github-orgs.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-actions",
+            "directory": "github-actions",
+            "target": "git@github.com:php-api-clients\/github-actions.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-oidc",
+            "directory": "github-oidc",
+            "target": "git@github.com:php-api-clients\/github-oidc.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-code-scanning",
+            "directory": "github-code-scanning",
+            "target": "git@github.com:php-api-clients\/github-code-scanning.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-codespaces",
+            "directory": "github-codespaces",
+            "target": "git@github.com:php-api-clients\/github-codespaces.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-packages",
+            "directory": "github-packages",
+            "target": "git@github.com:php-api-clients\/github-packages.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-interactions",
+            "directory": "github-interactions",
+            "target": "git@github.com:php-api-clients\/github-interactions.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-migrations",
+            "directory": "github-migrations",
+            "target": "git@github.com:php-api-clients\/github-migrations.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-projects",
+            "directory": "github-projects",
+            "target": "git@github.com:php-api-clients\/github-projects.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-repos",
+            "directory": "github-repos",
+            "target": "git@github.com:php-api-clients\/github-repos.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-billing",
+            "directory": "github-billing",
+            "target": "git@github.com:php-api-clients\/github-billing.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-teams",
+            "directory": "github-teams",
+            "target": "git@github.com:php-api-clients\/github-teams.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-reactions",
+            "directory": "github-reactions",
+            "target": "git@github.com:php-api-clients\/github-reactions.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-rate-limit",
+            "directory": "github-rate-limit",
+            "target": "git@github.com:php-api-clients\/github-rate-limit.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-checks",
+            "directory": "github-checks",
+            "target": "git@github.com:php-api-clients\/github-checks.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-dependency-graph",
+            "directory": "github-dependency-graph",
+            "target": "git@github.com:php-api-clients\/github-dependency-graph.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-git",
+            "directory": "github-git",
+            "target": "git@github.com:php-api-clients\/github-git.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-pulls",
+            "directory": "github-pulls",
+            "target": "git@github.com:php-api-clients\/github-pulls.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-security-advisories",
+            "directory": "github-security-advisories",
+            "target": "git@github.com:php-api-clients\/github-security-advisories.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-search",
+            "directory": "github-search",
+            "target": "git@github.com:php-api-clients\/github-search.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-users",
+            "directory": "github-users",
+            "target": "git@github.com:php-api-clients\/github-users.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-webhook",
+            "directory": "github-webhook",
+            "target": "git@github.com:php-api-clients\/github-webhook.git",
+            "target-branch": "v0.3.x"
+        }
+    ]
+}
