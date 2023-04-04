@@ -1,0 +1,45 @@
+{
+  "name": "api-clients/github-enterprise-cloud",
+  "description": "Non-Blocking first GitHub Enterprise Cloud client",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cees-Jan Kiewiet",
+      "email": "ceesjank@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.2",
+    "api-clients/github-enterprise-cloud-common": "^0.3",
+    "api-clients/contracts": "^0.1",
+    "cebe/php-openapi": "dev-openapi-31 as 1.6.0",
+    "eventsauce/object-hydrator": "^1.1",
+    "league/openapi-psr7-validator": "^0.18",
+    "react/async": "^4.0",
+    "wyrihaximus/react-awaitable-observable": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ApiClients\\Client\\GitHubEnterpriseCloud\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true,
+    "platform": {
+      "php": "8.2.13"
+    },
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true,
+      "composer/package-versions-deprecated": true,
+      "ergebnis/composer-normalize": true,
+      "icanhazstring/composer-unused": true,
+      "wyrihaximus/composer-update-bin-autoload-path": true,
+      "infection/extension-installer": true
+    }
+  },
+"sugest": {
+"api-clients/github-enterprise-cloud-meta": "*","api-clients/github-enterprise-cloud-apps": "*","api-clients/github-enterprise-cloud-codes-of-conduct": "*","api-clients/github-enterprise-cloud-emojis": "*","api-clients/github-enterprise-cloud-enterprise-admin": "*","api-clients/github-enterprise-cloud-actions": "*","api-clients/github-enterprise-cloud-announcement-banners": "*","api-clients/github-enterprise-cloud-code-scanning": "*","api-clients/github-enterprise-cloud-secret-scanning": "*","api-clients/github-enterprise-cloud-dependabot": "*","api-clients/github-enterprise-cloud-billing": "*","api-clients/github-enterprise-cloud-activity": "*","api-clients/github-enterprise-cloud-gists": "*","api-clients/github-enterprise-cloud-gitignore": "*","api-clients/github-enterprise-cloud-issues": "*","api-clients/github-enterprise-cloud-licenses": "*","api-clients/github-enterprise-cloud-markdown": "*","api-clients/github-enterprise-cloud-orgs": "*","api-clients/github-enterprise-cloud-oidc": "*","api-clients/github-enterprise-cloud-codespaces": "*","api-clients/github-enterprise-cloud-packages": "*","api-clients/github-enterprise-cloud-teams": "*","api-clients/github-enterprise-cloud-interactions": "*","api-clients/github-enterprise-cloud-migrations": "*","api-clients/github-enterprise-cloud-projects": "*","api-clients/github-enterprise-cloud-repos": "*","api-clients/github-enterprise-cloud-reactions": "*","api-clients/github-enterprise-cloud-rate-limit": "*","api-clients/github-enterprise-cloud-checks": "*","api-clients/github-enterprise-cloud-dependency-graph": "*","api-clients/github-enterprise-cloud-git": "*","api-clients/github-enterprise-cloud-pulls": "*","api-clients/github-enterprise-cloud-security-advisories": "*","api-clients/github-enterprise-cloud-scim": "*","api-clients/github-enterprise-cloud-search": "*","api-clients/github-enterprise-cloud-users": "*","api-clients/github-enterprise-cloud-webhook": "*"},
+  "require-dev": {
+    "wyrihaximus/async-test-utilities": "^5.0"
+  }
+}

@@ -1,0 +1,148 @@
+{
+    "sub-splits": [
+        {
+            "name": "github",
+            "directory": "subSplits\/GitHub",
+            "target": "git@github.com:php-api-clients\/subsplit-github.git",
+            "target-branch": "v0.3.x"
+        },
+        {
+            "name": "github-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHub",
+            "target": "git@github.com:php-api-clients\/subsplit-github.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-enterprise-cloud",
+            "directory": "subSplits\/GitHubEnterpriseCloud",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise-cloud.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubEnterpriseCloud",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise-cloud.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-ae",
+            "directory": "subSplits\/GitHubAE",
+            "target": "git@github.com:php-api-clients\/subsplit-github-ae.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-ae-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubAE",
+            "target": "git@github.com:php-api-clients\/subsplit-github-ae.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-enterprise",
+            "directory": "subSplits\/GitHubEnterprise-3.0",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "v0.2.3.0.x"
+        },
+        {
+            "name": "github-enterprise-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubEnterprise-3.0",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-enterprise",
+            "directory": "subSplits\/GitHubEnterprise-3.1",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "v0.2.3.1.x"
+        },
+        {
+            "name": "github-enterprise-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubEnterprise-3.1",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-enterprise",
+            "directory": "subSplits\/GitHubEnterprise-3.2",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "v0.2.3.2.x"
+        },
+        {
+            "name": "github-enterprise-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubEnterprise-3.2",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-enterprise",
+            "directory": "subSplits\/GitHubEnterprise-3.3",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "v0.2.3.3.x"
+        },
+        {
+            "name": "github-enterprise-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubEnterprise-3.3",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-enterprise",
+            "directory": "subSplits\/GitHubEnterprise-3.4",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "v0.2.3.4.x"
+        },
+        {
+            "name": "github-enterprise-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubEnterprise-3.4",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-enterprise",
+            "directory": "subSplits\/GitHubEnterprise-3.5",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "v0.2.3.5.x"
+        },
+        {
+            "name": "github-enterprise-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubEnterprise-3.5",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-enterprise",
+            "directory": "subSplits\/GitHubEnterprise-3.6",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "v0.2.3.6.x"
+        },
+        {
+            "name": "github-enterprise-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubEnterprise-3.6",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-enterprise",
+            "directory": "subSplits\/GitHubEnterprise-3.7",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "v0.2.3.7.x"
+        },
+        {
+            "name": "github-enterprise-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubEnterprise-3.7",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "main"
+        },
+        {
+            "name": "github-enterprise",
+            "directory": "subSplits\/GitHubEnterprise-3.8",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "v0.2.3.8.x"
+        },
+        {
+            "name": "github-enterprise-default-branch",
+            "directory": "subSplits_defaultBranch\/GitHubEnterprise-3.8",
+            "target": "git@github.com:php-api-clients\/subsplit-github-enterprise.git",
+            "target-branch": "main"
+        }
+    ]
+}

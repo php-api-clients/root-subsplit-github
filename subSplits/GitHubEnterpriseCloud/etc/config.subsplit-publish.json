@@ -1,0 +1,238 @@
+{
+    "sub-splits": [
+        {
+            "name": "github-enterprise-cloud",
+            "directory": "github-enterprise-cloud",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-common",
+            "directory": "github-enterprise-cloud-common",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-common.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-meta",
+            "directory": "github-enterprise-cloud-meta",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-meta.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-apps",
+            "directory": "github-enterprise-cloud-apps",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-apps.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-codes-of-conduct",
+            "directory": "github-enterprise-cloud-codes-of-conduct",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-codes-of-conduct.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-emojis",
+            "directory": "github-enterprise-cloud-emojis",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-emojis.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-enterprise-admin",
+            "directory": "github-enterprise-cloud-enterprise-admin",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-enterprise-admin.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-actions",
+            "directory": "github-enterprise-cloud-actions",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-actions.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-announcement-banners",
+            "directory": "github-enterprise-cloud-announcement-banners",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-announcement-banners.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-code-scanning",
+            "directory": "github-enterprise-cloud-code-scanning",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-code-scanning.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-secret-scanning",
+            "directory": "github-enterprise-cloud-secret-scanning",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-secret-scanning.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-dependabot",
+            "directory": "github-enterprise-cloud-dependabot",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-dependabot.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-billing",
+            "directory": "github-enterprise-cloud-billing",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-billing.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-activity",
+            "directory": "github-enterprise-cloud-activity",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-activity.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-gists",
+            "directory": "github-enterprise-cloud-gists",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-gists.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-gitignore",
+            "directory": "github-enterprise-cloud-gitignore",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-gitignore.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-issues",
+            "directory": "github-enterprise-cloud-issues",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-issues.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-licenses",
+            "directory": "github-enterprise-cloud-licenses",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-licenses.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-markdown",
+            "directory": "github-enterprise-cloud-markdown",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-markdown.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-orgs",
+            "directory": "github-enterprise-cloud-orgs",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-orgs.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-oidc",
+            "directory": "github-enterprise-cloud-oidc",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-oidc.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-codespaces",
+            "directory": "github-enterprise-cloud-codespaces",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-codespaces.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-packages",
+            "directory": "github-enterprise-cloud-packages",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-packages.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-teams",
+            "directory": "github-enterprise-cloud-teams",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-teams.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-interactions",
+            "directory": "github-enterprise-cloud-interactions",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-interactions.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-migrations",
+            "directory": "github-enterprise-cloud-migrations",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-migrations.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-projects",
+            "directory": "github-enterprise-cloud-projects",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-projects.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-repos",
+            "directory": "github-enterprise-cloud-repos",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-repos.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-reactions",
+            "directory": "github-enterprise-cloud-reactions",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-reactions.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-rate-limit",
+            "directory": "github-enterprise-cloud-rate-limit",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-rate-limit.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-checks",
+            "directory": "github-enterprise-cloud-checks",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-checks.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-dependency-graph",
+            "directory": "github-enterprise-cloud-dependency-graph",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-dependency-graph.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-git",
+            "directory": "github-enterprise-cloud-git",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-git.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-pulls",
+            "directory": "github-enterprise-cloud-pulls",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-pulls.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-security-advisories",
+            "directory": "github-enterprise-cloud-security-advisories",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-security-advisories.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-scim",
+            "directory": "github-enterprise-cloud-scim",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-scim.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-search",
+            "directory": "github-enterprise-cloud-search",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-search.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-users",
+            "directory": "github-enterprise-cloud-users",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-users.git",
+            "target-branch": "v0.2.x"
+        },
+        {
+            "name": "github-enterprise-cloud-webhook",
+            "directory": "github-enterprise-cloud-webhook",
+            "target": "git@github.com:php-api-clients\/github-enterprise-cloud-webhook.git",
+            "target-branch": "v0.2.x"
+        }
+    ]
+}
